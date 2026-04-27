@@ -21,7 +21,7 @@ A lightweight, browser-based PDF utility tool — no server, no installs, no fil
 If hosted on GitHub Pages:
 
 ```
-https://<your-username>.github.io/<your-repo>/pdf-toolkit.html
+https://github.com/PhonSobon/pdftoolkit/blob/main/pdf-toolkit.html
 ```
 
 ---
@@ -31,7 +31,7 @@ https://<your-username>.github.io/<your-repo>/pdf-toolkit.html
 ### 1. Clone the repository
 
 ```bash
-(https://github.com/PhonSobon/pdftoolkit.git)
+https://github.com/PhonSobon/pdftoolkit.git
 cd pdftoolkit
 ```
 
