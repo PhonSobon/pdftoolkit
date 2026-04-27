@@ -31,8 +31,8 @@ https://<your-username>.github.io/<your-repo>/pdf-toolkit.html
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+(https://github.com/PhonSobon/pdftoolkit.git)
+cd pdftoolkit
 ```
 
 ### 2. Open in browser
